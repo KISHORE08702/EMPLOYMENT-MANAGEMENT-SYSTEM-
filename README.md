@@ -6,6 +6,7 @@ It uses Python dictionaries to store employee details and supports saving/loadin
 
 
 📌 Features
+
 ✔ Add Employee
 
 Store new employee details such as ID, name, age, salary, and department.
